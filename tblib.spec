@@ -4,7 +4,7 @@
 #
 Name     : tblib
 Version  : 1.3.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/ec/c4/8c651f3240a73c28a218194f3d527eb2be5a173d08501060cdee84ade33f/tblib-1.3.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ec/c4/8c651f3240a73c28a218194f3d527eb2be5a173d08501060cdee84ade33f/tblib-1.3.2.tar.gz
 Summary  : Traceback serialization library.
@@ -13,7 +13,6 @@ License  : BSD-2-Clause
 Requires: tblib-license = %{version}-%{release}
 Requires: tblib-python = %{version}-%{release}
 Requires: tblib-python3 = %{version}-%{release}
-Requires: Sphinx
 BuildRequires : buildreq-distutils3
 BuildRequires : pluggy
 BuildRequires : py-python
@@ -72,7 +71,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1549029462
+export SOURCE_DATE_EPOCH=1551039426
 export MAKEFLAGS=%{?_smp_mflags}
 python3 setup.py build
 
