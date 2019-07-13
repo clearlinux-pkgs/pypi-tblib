@@ -4,7 +4,7 @@
 #
 Name     : tblib
 Version  : 1.4.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/b9/28/7c8825703fbeb10bc1b4c9c53e8f73b030bcb14d569ea5eb87c4a53cb98b/tblib-1.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b9/28/7c8825703fbeb10bc1b4c9c53e8f73b030bcb14d569ea5eb87c4a53cb98b/tblib-1.4.0.tar.gz
 Summary  : Traceback serialization library.
