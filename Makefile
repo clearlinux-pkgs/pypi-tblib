@@ -1,5 +1,5 @@
 PKG_NAME := tblib
-URL = https://files.pythonhosted.org/packages/48/df/6a651c72d84ff136da474b4734212b8bc784bea771aa23cf32f2351e0cb7/tblib-1.5.0.tar.gz
+URL = https://files.pythonhosted.org/packages/eb/9e/3e25e6db783be160cba6a668f3272abbb99b1bcf844e00a8fc38ab238892/tblib-1.6.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
