@@ -4,7 +4,7 @@
 #
 Name     : tblib
 Version  : 1.6.0
-Release  : 10
+Release  : 11
 URL      : https://files.pythonhosted.org/packages/eb/9e/3e25e6db783be160cba6a668f3272abbb99b1bcf844e00a8fc38ab238892/tblib-1.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/eb/9e/3e25e6db783be160cba6a668f3272abbb99b1bcf844e00a8fc38ab238892/tblib-1.6.0.tar.gz
 Summary  : Traceback serialization library.
@@ -65,6 +65,7 @@ python components for the tblib package.
 Summary: python3 components for the tblib package.
 Group: Default
 Requires: python3-core
+Provides: pypi(tblib)
 
 %description python3
 python3 components for the tblib package.
@@ -79,7 +80,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1576003486
+export SOURCE_DATE_EPOCH=1582913485
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
