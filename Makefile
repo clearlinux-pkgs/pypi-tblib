@@ -1,5 +1,5 @@
 PKG_NAME := pypi-tblib
-URL = https://files.pythonhosted.org/packages/64/e3/d9aebe40d15d2c4c73a0ff8555326ef42a62ce3e5320ceb1aa762e4fbb54/tblib-2.0.0.tar.gz
+URL = https://files.pythonhosted.org/packages/1a/df/4f2cd7eaa6d41a7994d46527349569d46e34d9cdd07590b5c5b0dcf53de3/tblib-3.0.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
