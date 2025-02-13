@@ -7,7 +7,7 @@
 #
 Name     : pypi-tblib
 Version  : 3.0.0
-Release  : 42
+Release  : 43
 URL      : https://files.pythonhosted.org/packages/1a/df/4f2cd7eaa6d41a7994d46527349569d46e34d9cdd07590b5c5b0dcf53de3/tblib-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1a/df/4f2cd7eaa6d41a7994d46527349569d46e34d9cdd07590b5c5b0dcf53de3/tblib-3.0.0.tar.gz
 Summary  : Traceback serialization library.
